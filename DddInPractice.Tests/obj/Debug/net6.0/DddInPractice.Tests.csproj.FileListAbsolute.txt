@@ -1,0 +1,17 @@
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.csproj.AssemblyReference.cache
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.AssemblyInfoInputs.cache
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.AssemblyInfo.cs
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.csproj.CoreCompileInputs.cache
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\bin\Debug\net6.0\DddInPractice.Tests.deps.json
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\bin\Debug\net6.0\DddInPractice.Tests.runtimeconfig.json
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\bin\Debug\net6.0\DddInPractice.Tests.dll
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\bin\Debug\net6.0\DddInPractice.Tests.pdb
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.dll
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\refint\DddInPractice.Tests.dll
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.pdb
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.genruntimeconfig.cache
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\ref\DddInPractice.Tests.dll
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\bin\Debug\net6.0\DddInPractice.Logic.dll
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\bin\Debug\net6.0\DddInPractice.Logic.pdb
+C:\lab\DDD\DddInPractice\DddInPractice.Tests\obj\Debug\net6.0\DddInPractice.Tests.csproj.CopyComplete

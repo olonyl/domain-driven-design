@@ -1,0 +1,6 @@
+C:\lab\DDD\DddInPractice\DddInPractice\bin\Debug\DddInPractice.Logic.dll
+C:\lab\DDD\DddInPractice\DddInPractice\bin\Debug\DddInPractice.Logic.pdb
+C:\lab\DDD\DddInPractice\DddInPractice\obj\Debug\DddInPractice.Logic.csproj.AssemblyReference.cache
+C:\lab\DDD\DddInPractice\DddInPractice\obj\Debug\DddInPractice.Logic.csproj.CoreCompileInputs.cache
+C:\lab\DDD\DddInPractice\DddInPractice\obj\Debug\DddInPractice.Logic.dll
+C:\lab\DDD\DddInPractice\DddInPractice\obj\Debug\DddInPractice.Logic.pdb
