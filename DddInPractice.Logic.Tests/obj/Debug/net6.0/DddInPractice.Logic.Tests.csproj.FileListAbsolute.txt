@@ -103,3 +103,4 @@ C:\lab\DDD\DddInPractice\DddInPractice.Logic.Tests\obj\Debug\net6.0\refint\DddIn
 C:\lab\DDD\DddInPractice\DddInPractice.Logic.Tests\obj\Debug\net6.0\DddInPractice.Logic.Tests.pdb
 C:\lab\DDD\DddInPractice\DddInPractice.Logic.Tests\obj\Debug\net6.0\DddInPractice.Logic.Tests.genruntimeconfig.cache
 C:\lab\DDD\DddInPractice\DddInPractice.Logic.Tests\obj\Debug\net6.0\ref\DddInPractice.Logic.Tests.dll
+C:\lab\DDD\DddInPractice\DddInPractice.Logic.Tests\bin\Debug\net6.0\NCrunch.Framework.dll
