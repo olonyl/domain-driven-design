@@ -1,5 +1,6 @@
 ﻿using DddInPractice.Logic;
 using DddInPractice.UI.Common;
+using NHibernate;
 using System.Security.Policy;
 using static DddInPractice.Logic.Money;
 
@@ -49,6 +50,14 @@ namespace DddInPractice.UI
         private void BuySnack()
         {
             _snackMachine.BuySnack();
+            using(ISession session = SessionFactory.OpenSession())
+            {
+                using(ITransaction transaction = session.BeginTransaction())
+                {
+                    session.SaveOrUpdate(_snackMachine);
+                    transaction.Commit();
+                }
+            }
             NotifyClient("You have bought a snack");
         }
         private void ReturnMoney()

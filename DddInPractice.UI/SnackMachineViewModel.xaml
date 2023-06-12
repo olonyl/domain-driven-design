@@ -3,7 +3,7 @@
                     xmlns:snackMachines="clr-namespace:DddInPractice.UI">
     <DataTemplate x:Key="SnackMachineViewModel" DataType="snackMachines:SnackMachineViewModel">
 
-        <Grid>
+        <Grid HorizontalAlignment="Center">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />

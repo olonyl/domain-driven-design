@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DddInPractice.Logic;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
@@ -13,6 +14,9 @@ namespace DddInPractice.UI
     /// </summary>
     public partial class App 
     {
-
+        public App()
+        {
+            Initer.Init(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DddInPractice;Integrated Security=True;");
+        }
     }
 }

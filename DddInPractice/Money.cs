@@ -32,13 +32,17 @@ namespace DddInPractice.Logic
                     FiveDollarCount * 5 +
                     TwentyDollarCount * 20; 
         }
+        private Money()
+        {
+
+        }
         public Money(
             int oneCentCount,
             int tenCentCount,
             int quarterCentCount,
             int oneDollarCount,
             int fiveDollarCount,
-            int twentyDollarCount)
+            int twentyDollarCount): this()
         {
             if(oneCentCount < 0)
                 throw new InvalidOperationException();
